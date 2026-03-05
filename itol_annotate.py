@@ -19,7 +19,6 @@ Usage
   python itol_annotate.py --help
 
 Author : Nadeem
-License: MIT
 """
 
 import argparse
