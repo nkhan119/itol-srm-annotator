@@ -80,7 +80,7 @@ Upload the three generated `.txt` files to your iTOL tree:
 
 ---
 
-## 📤 Output Files
+## Output Files
 
 ### `*_label_replace.txt` — Node Label Replacement
 Replaces raw accession labels with:
