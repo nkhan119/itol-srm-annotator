@@ -113,16 +113,20 @@ usage: itol_annotate [-h] --tree TREEFILE --csv CSV [--outdir DIR] [--prefix PRE
 
 ---
 
-## 🔬 Background
+## Background
 
 **Short Repeat Motifs (SRMs)** are repetitive sequence elements found in bacterial genomes. Mapping their counts onto a phylogenetic tree allows rapid visual identification of lineages with elevated repeat content, which may be associated with genomic instability or host adaptation in *Legionella*.
 
 ---
 
+## Citation / Reuse
+
+If you use or adapt this pipeline, please credit the author.
 
 ---
 
-## Contact
+## Author
+---
 
 **Nadeem Khan, PhD**
 Bioinformatician — INRS–Centre Armand-Frappier Santé-Biotechnologie, Laval, QC, Canada
